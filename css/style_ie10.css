@@ -1,0 +1,20 @@
+.div.nav-div form button { 
+	display:inline-block!important;
+	width:40px;
+	max-width:40px;
+	position:relative;
+	top:-1px;
+	left:2px;
+	height:32px!important;
+	border-radius: 5px;
+}
+.postwraps .sharing .tops div.buttons { 
+	display:inline-block
+}
+.postwraps .sharing .tops strong.sharetitle, .postwraps .sharing .tops br.firstclear {
+	display:none;	
+}
+.postwraps .sharing .tops { 
+	border-width:0;
+	padding:0;
+}
