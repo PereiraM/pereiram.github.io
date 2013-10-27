@@ -1,4 +1,0 @@
-Workality-Premium
-=================
-
-V2
